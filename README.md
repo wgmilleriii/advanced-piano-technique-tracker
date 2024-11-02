@@ -68,3 +68,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 8. What is the average improvement rate in performance speed?
 9. How many video analyses have been conducted this week?
 10. What percentage of users are integrating the suggested improvements?
+
+## Key Questions
+1. 
+2. How many pianists are actively using the tracker?
+3. What is the average practice time logged per user?
+4. Which technique is showing the most improvement across users?
+5. How many custom practice routines have been created?
+6. What is the most commonly set goal among users?
+7. How many users have achieved their set goals this month?
+8. What is the average improvement rate in performance speed?
+9. How many video analyses have been conducted this week?
+10. What percentage of users are integrating the suggested improvements?
